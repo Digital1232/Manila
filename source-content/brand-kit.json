@@ -1,0 +1,563 @@
+{
+    "kit_id": 9,
+    "h2_typography_typography": "custom",
+    "h2_typography_font_family": "Work Sans",
+    "h2_typography_font_size": {
+        "unit": "px",
+        "size": 50,
+        "sizes": []
+    },
+    "h2_typography_line_height": {
+        "unit": "em",
+        "size": 1.2,
+        "sizes": []
+    },
+    "h5_typography_typography": "custom",
+    "h5_typography_font_family": "Work Sans",
+    "h5_typography_font_size": {
+        "unit": "px",
+        "size": 24,
+        "sizes": []
+    },
+    "h5_typography_line_height": {
+        "unit": "em",
+        "size": 1.2,
+        "sizes": []
+    },
+    "h6_typography_typography": "custom",
+    "h6_typography_font_family": "Inter",
+    "h6_typography_font_size": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+    },
+    "h6_typography_font_weight": "500",
+    "h6_typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+    },
+    "body_typography_typography": "custom",
+    "body_typography_font_family": "Inter",
+    "body_typography_font_size": {
+        "unit": "px",
+        "size": "18",
+        "sizes": []
+    },
+    "body_typography_line_height": {
+        "unit": "em",
+        "size": "1.6",
+        "sizes": []
+    },
+    "h5_typography_font_size_mobile": {
+        "unit": "px",
+        "size": 22,
+        "sizes": []
+    },
+    "h5_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+    },
+    "h5_typography_font_weight": "600",
+    "body_typography_font_size_mobile": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+    },
+    "body_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.5,
+        "sizes": []
+    },
+    "h2_typography_font_size_mobile": {
+        "unit": "px",
+        "size": 30,
+        "sizes": []
+    },
+    "body_typography_font_weight": "400",
+    "button_typography_typography": "custom",
+    "button_typography_font_size": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+    },
+    "button_typography_font_weight": "500",
+    "button_typography_text_transform": "capitalize",
+    "button_typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+    },
+    "button_text_color": "#36348E",
+    "button_hover_border_radius": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": ""
+    },
+    "h6_typography_text_transform": "none",
+    "custom_colors": [],
+    "system_colors": [
+        {
+            "_id": "vamtam_accent_1",
+            "title": "Accent 1",
+            "color": "#36348E"
+        },
+        {
+            "_id": "vamtam_accent_2",
+            "title": "Accent 2",
+            "color": "#C916EA"
+        },
+        {
+            "_id": "vamtam_accent_3",
+            "title": "Accent 3",
+            "color": "#CDD4FB"
+        },
+        {
+            "_id": "vamtam_accent_4",
+            "title": "Accent 4",
+            "color": "#FAFAFA"
+        },
+        {
+            "_id": "vamtam_accent_5",
+            "title": "Accent 5",
+            "color": "#FFFFFF"
+        },
+        {
+            "_id": "vamtam_accent_6",
+            "title": "Accent 6",
+            "color": "#292929"
+        },
+        {
+            "_id": "vamtam_accent_7",
+            "title": "Accent 7",
+            "color": "#B7D8EF"
+        },
+        {
+            "_id": "vamtam_accent_8",
+            "title": "Accent 8",
+            "color": "#545454"
+        },
+        {
+            "_id": "vamtam_primary_font_color",
+            "title": "Primary Font",
+            "color": "#292929"
+        },
+        {
+            "_id": "vamtam_h1_color",
+            "title": "H1",
+            "color": "#292929"
+        },
+        {
+            "_id": "vamtam_h2_color",
+            "title": "H2",
+            "color": "#292929"
+        },
+        {
+            "_id": "vamtam_h3_color",
+            "title": "H3",
+            "color": "#292929"
+        },
+        {
+            "_id": "vamtam_h4_color",
+            "title": "H4",
+            "color": "#292929"
+        },
+        {
+            "_id": "vamtam_h5_color",
+            "title": "H5",
+            "color": "#292929"
+        },
+        {
+            "_id": "vamtam_h6_color",
+            "title": "H6",
+            "color": "#292929"
+        },
+        {
+            "_id": "vamtam_sticky_header_bg_color",
+            "title": "Sticky Header Bg Color",
+            "color": "#36348E"
+        }
+    ],
+    "system_typography": [
+        {
+            "_id": "vamtam_primary_font",
+            "title": "Primary Font",
+            "typography_typography": "custom",
+            "typography_font_family": "Inter",
+            "typography_font_weight": "400",
+            "typography_font_size": {
+                "unit": "px",
+                "size": "18",
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 16,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": "1.6",
+                "sizes": []
+            },
+            "typography_line_height_mobile": {
+                "unit": "px",
+                "size": 24,
+                "sizes": []
+            }
+        },
+        {
+            "_id": "vamtam_h1",
+            "title": "H1",
+            "typography_typography": "custom",
+            "typography_font_family": "Work Sans",
+            "typography_font_weight": "800",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 55,
+                "sizes": []
+            },
+            "typography_font_size_tablet": {
+                "unit": "px",
+                "size": "55",
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 34,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1.1,
+                "sizes": []
+            },
+            "typography_line_height_mobile": {
+                "unit": "em",
+                "size": 1.1,
+                "sizes": []
+            }
+        },
+        {
+            "_id": "vamtam_h2",
+            "title": "H2",
+            "typography_typography": "custom",
+            "typography_font_family": "Work Sans",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 50,
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 30,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1.2,
+                "sizes": []
+            },
+            "typography_font_weight": "700"
+        },
+        {
+            "_id": "vamtam_h3",
+            "title": "H3",
+            "typography_typography": "custom",
+            "typography_font_family": "Work Sans",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 36,
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "26",
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1.2,
+                "sizes": []
+            },
+            "typography_line_height_mobile": {
+                "unit": "em",
+                "size": 1.3,
+                "sizes": []
+            },
+            "typography_font_weight": "700"
+        },
+        {
+            "_id": "vamtam_h4",
+            "title": "H4",
+            "typography_typography": "custom",
+            "typography_font_family": "Work Sans",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 26,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1.2,
+                "sizes": []
+            },
+            "typography_font_weight": "800",
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+            },
+            "typography_line_height_mobile": {
+                "unit": "em",
+                "size": 1.2,
+                "sizes": []
+            }
+        },
+        {
+            "_id": "vamtam_h5",
+            "title": "H5",
+            "typography_typography": "custom",
+            "typography_font_family": "Work Sans",
+            "typography_font_weight": "600",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 24,
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1.2,
+                "sizes": []
+            },
+            "typography_line_height_mobile": {
+                "unit": "em",
+                "size": 1.3,
+                "sizes": []
+            }
+        },
+        {
+            "_id": "vamtam_h6",
+            "title": "H6",
+            "typography_typography": "custom",
+            "typography_font_family": "Inter",
+            "typography_font_weight": "500",
+            "typography_text_transform": "none",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 18,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1.3,
+                "sizes": []
+            }
+        }
+    ],
+    "custom_typography": [
+        {
+            "_id": "151358a",
+            "title": "Accent Title",
+            "typography_typography": "custom",
+            "typography_font_family": "Work Sans",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 200,
+                "sizes": []
+            },
+            "typography_font_size_tablet": {
+                "unit": "px",
+                "size": 150,
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 80,
+                "sizes": []
+            },
+            "typography_font_weight": "700",
+            "typography_text_transform": "uppercase",
+            "typography_font_style": "normal",
+            "typography_line_height": {
+                "unit": "em",
+                "size": 0.8,
+                "sizes": []
+            },
+            "typography_letter_spacing": {
+                "unit": "px",
+                "size": -20,
+                "sizes": []
+            },
+            "typography_letter_spacing_tablet": {
+                "unit": "px",
+                "size": -10,
+                "sizes": []
+            },
+            "typography_letter_spacing_mobile": {
+                "unit": "px",
+                "size": -5,
+                "sizes": []
+            }
+        }
+    ],
+    "link_hover_color": "#FFC53A",
+    "site_name": "Manila Institute of Paramedical Science",
+    "site_description": "Manila Institute of Paramedical Science offers top-quality paramedical courses with hands-on training, expert faculty, and industry-recognized certifications",
+    "body_background_background": "classic",
+    "body_background_position": "top center",
+    "body_background_repeat": "repeat-y",
+    "button_border_radius": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+    },
+    "wc_button_typography_font_size": {
+        "unit": "px",
+        "size": 115,
+        "sizes": []
+    },
+    "h1_typography_typography": "custom",
+    "h1_typography_font_family": "Work Sans",
+    "h1_typography_font_size": {
+        "unit": "px",
+        "size": 55,
+        "sizes": []
+    },
+    "h1_typography_font_size_tablet": {
+        "unit": "px",
+        "size": "55",
+        "sizes": []
+    },
+    "h1_typography_font_size_mobile": {
+        "unit": "px",
+        "size": 34,
+        "sizes": []
+    },
+    "h1_typography_font_weight": "800",
+    "h1_typography_line_height": {
+        "unit": "em",
+        "size": 1.1,
+        "sizes": []
+    },
+    "h1_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.1,
+        "sizes": []
+    },
+    "body_color": "#292929",
+    "link_normal_typography_font_family": "Inter",
+    "h1_color": "#FFFFFF",
+    "h2_color": "#292929",
+    "h2_typography_font_weight": "700",
+    "h3_color": "#292929",
+    "h4_color": "#292929",
+    "h5_color": "#292929",
+    "h6_color": "#292929",
+    "button_background_color": "#00000000",
+    "button_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+    },
+    "link_normal_color": "#36348E",
+    "link_normal_typography_font_size": {
+        "unit": "px",
+        "size": "18",
+        "sizes": []
+    },
+    "link_normal_typography_font_size_mobile": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+    },
+    "link_normal_typography_line_height": {
+        "unit": "em",
+        "size": "1.6",
+        "sizes": []
+    },
+    "link_normal_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.5,
+        "sizes": []
+    },
+    "button_hover_text_color": "#36348E",
+    "site_favicon": {
+        "url": "http://manilainstitute.com/wp-content/uploads/2025/06/cropped-Fav-Icon.jpg",
+        "id": 24322,
+        "size": "",
+        "alt": "",
+        "source": "library"
+    },
+    "button_typography_text_decoration": "underline",
+    "h3_typography_typography": "custom",
+    "h3_typography_font_family": "Work Sans",
+    "h3_typography_font_size": {
+        "unit": "px",
+        "size": 36,
+        "sizes": []
+    },
+    "h3_typography_font_size_mobile": {
+        "unit": "px",
+        "size": "26",
+        "sizes": []
+    },
+    "h3_typography_font_weight": "700",
+    "h3_typography_line_height": {
+        "unit": "em",
+        "size": 1.2,
+        "sizes": []
+    },
+    "h3_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+    },
+    "h4_typography_typography": "custom",
+    "h4_typography_font_family": "Work Sans",
+    "h4_typography_font_size": {
+        "unit": "px",
+        "size": 26,
+        "sizes": []
+    },
+    "h4_typography_font_size_mobile": {
+        "unit": "px",
+        "size": 22,
+        "sizes": []
+    },
+    "h4_typography_font_weight": "800",
+    "h4_typography_line_height": {
+        "unit": "em",
+        "size": 1.2,
+        "sizes": []
+    },
+    "h4_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.2,
+        "sizes": []
+    },
+    "colors_enable_styleguide_preview": "yes",
+    "typography_enable_styleguide_preview": "yes",
+    "site_logo": {
+        "url": "http://manilainstitute.com/wp-content/uploads/2020/02/Manila-Institute-LOgo-copy.png",
+        "id": 987948,
+        "size": "",
+        "alt": "",
+        "source": "library"
+    }
+}

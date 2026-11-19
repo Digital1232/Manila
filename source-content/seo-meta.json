@@ -1,0 +1,132 @@
+[
+    {
+        "id": 11,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 6281,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 6283,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 988001,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 988114,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 988170,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 6417,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        },
+        "_siteseo_readibility_data": "a:2:{s:16:\"paragraph_length\";i:31;s:13:\"passive_voice\";a:2:{s:17:\"passive_sentences\";i:0;s:15:\"total_sentences\";i:3;}}"
+    },
+    {
+        "id": 6425,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 16161,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 989059,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    },
+    {
+        "id": 6426,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": "{\"focus\":{\"keyphrase\":\"\",\"score\":0,\"analysis\":{\"keyphraseInTitle\":{\"score\":0,\"maxScore\":9,\"error\":1}}},\"additional\":[]}",
+            "og_title": null,
+            "og_description": null
+        },
+        "_aioseo_title": null,
+        "_aioseo_description": null,
+        "_aioseo_keywords": "a:0:{}",
+        "_aioseo_og_title": null,
+        "_aioseo_og_description": null,
+        "_aioseo_og_article_section": null,
+        "_aioseo_og_article_tags": "a:0:{}",
+        "_aioseo_twitter_title": null,
+        "_aioseo_twitter_description": null
+    },
+    {
+        "id": 30,
+        "aioseo": {
+            "title": null,
+            "description": null,
+            "keyphrases": null,
+            "og_title": null,
+            "og_description": null
+        }
+    }
+]

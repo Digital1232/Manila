@@ -1,0 +1,270 @@
+{
+    "brand/manila-institute-logo.webp": {
+        "w": 380,
+        "h": 150,
+        "srcset": []
+    },
+    "brand/manila-institute-logo-white.webp": {
+        "w": 380,
+        "h": 150,
+        "srcset": []
+    },
+    "home/hero-students-laboratory.webp": {
+        "w": 1600,
+        "h": 785,
+        "srcset": {
+            "800": "home/hero-students-laboratory-800w.webp"
+        }
+    },
+    "team/dr-p-manimozhian.webp": {
+        "w": 258,
+        "h": 258,
+        "srcset": []
+    },
+    "team/dr-m-a-mathan.webp": {
+        "w": 258,
+        "h": 258,
+        "srcset": []
+    },
+    "team/dr-m-nivya.webp": {
+        "w": 258,
+        "h": 258,
+        "srcset": []
+    },
+    "courses/dnm-nursing-students-clinical-training.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "courses/dnm-nursing-students-clinical-training-480w.webp"
+        }
+    },
+    "courses/dmlt-student-blood-test-medical-lab.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "courses/dmlt-student-blood-test-medical-lab-480w.webp"
+        }
+    },
+    "courses/dott-student-surgical-setup.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "courses/dott-student-surgical-setup-480w.webp"
+        }
+    },
+    "courses/drit-student-x-ray-machine.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "courses/drit-student-x-ray-machine-480w.webp"
+        }
+    },
+    "home/nivya-hospital-legacy.webp": {
+        "w": 1200,
+        "h": 840,
+        "srcset": {
+            "700": "home/nivya-hospital-legacy-700w.webp"
+        }
+    },
+    "home/dr-nivya-m.webp": {
+        "w": 550,
+        "h": 385,
+        "srcset": []
+    },
+    "home/nivya-hospital-tirunelveli.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "home/nivya-hospital-tirunelveli-480w.webp"
+        }
+    },
+    "home/hospital-based-training.webp": {
+        "w": 600,
+        "h": 693,
+        "srcset": []
+    },
+    "home/apply-now-student.webp": {
+        "w": 380,
+        "h": 730,
+        "srcset": []
+    },
+    "about/about-hero.webp": {
+        "w": 1600,
+        "h": 720,
+        "srcset": {
+            "800": "about/about-hero-800w.webp"
+        }
+    },
+    "about/manila-institute-tirunelveli.webp": {
+        "w": 650,
+        "h": 450,
+        "srcset": []
+    },
+    "about/mission-manila-paramedical-college.webp": {
+        "w": 650,
+        "h": 450,
+        "srcset": []
+    },
+    "shared/page-hero-healthcare.webp": {
+        "w": 1600,
+        "h": 532,
+        "srcset": {
+            "800": "shared/page-hero-healthcare-800w.webp"
+        }
+    },
+    "courses/dnm/career-opportunities-nursing-midwifery.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "courses/dnm/career-opportunities-nursing-midwifery-480w.webp"
+        }
+    },
+    "courses/dnm/nursing-care-nivya-hospital.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "courses/dnm/nursing-care-nivya-hospital-480w.webp"
+        }
+    },
+    "courses/dnm/setting-hospital-clinical-care.webp": {
+        "w": 992,
+        "h": 495,
+        "srcset": {
+            "500": "courses/dnm/setting-hospital-clinical-care-500w.webp"
+        }
+    },
+    "courses/dnm/setting-clinical-procedures.webp": {
+        "w": 900,
+        "h": 450,
+        "srcset": {
+            "500": "courses/dnm/setting-clinical-procedures-500w.webp"
+        }
+    },
+    "courses/dnm/setting-community-health.webp": {
+        "w": 1000,
+        "h": 667,
+        "srcset": {
+            "500": "courses/dnm/setting-community-health-500w.webp"
+        }
+    },
+    "courses/dnm/setting-administrative-support.webp": {
+        "w": 1000,
+        "h": 667,
+        "srcset": {
+            "500": "courses/dnm/setting-administrative-support-500w.webp"
+        }
+    },
+    "courses/dnm/why-choose-manila-institute.webp": {
+        "w": 804,
+        "h": 687,
+        "srcset": {
+            "480": "courses/dnm/why-choose-manila-institute-480w.webp"
+        }
+    },
+    "courses/dmlt/respiratory-lab-diagnostics.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "courses/dmlt/respiratory-lab-diagnostics-480w.webp"
+        }
+    },
+    "courses/dmlt/why-choose-manila-institute.webp": {
+        "w": 522,
+        "h": 780,
+        "srcset": []
+    },
+    "courses/dmlt/diagnostic-laboratory-services.webp": {
+        "w": 550,
+        "h": 600,
+        "srcset": []
+    },
+    "courses/dmlt/laboratory-maintenance-quality-control.webp": {
+        "w": 550,
+        "h": 600,
+        "srcset": []
+    },
+    "courses/dmlt/specialized-areas-advanced-training.webp": {
+        "w": 550,
+        "h": 600,
+        "srcset": []
+    },
+    "courses/dott/wound-care-tray.webp": {
+        "w": 700,
+        "h": 739,
+        "srcset": []
+    },
+    "courses/dott/emergency-tray.webp": {
+        "w": 700,
+        "h": 739,
+        "srcset": []
+    },
+    "courses/dott/suture-removal-tray.webp": {
+        "w": 700,
+        "h": 739,
+        "srcset": []
+    },
+    "courses/dott/pleural-tapping-thoracocentesis-tray.webp": {
+        "w": 700,
+        "h": 739,
+        "srcset": []
+    },
+    "courses/dott/intercostal-drainage-icd-tray.webp": {
+        "w": 700,
+        "h": 739,
+        "srcset": []
+    },
+    "courses/dott/scope-operation-theatre-technician.webp": {
+        "w": 803,
+        "h": 928,
+        "srcset": {
+            "480": "courses/dott/scope-operation-theatre-technician-480w.webp"
+        }
+    },
+    "courses/dott/why-choose-manila-institute.webp": {
+        "w": 804,
+        "h": 687,
+        "srcset": {
+            "480": "courses/dott/why-choose-manila-institute-480w.webp"
+        }
+    },
+    "courses/drit/ultrasonography-training.webp": {
+        "w": 804,
+        "h": 687,
+        "srcset": {
+            "480": "courses/drit/ultrasonography-training-480w.webp"
+        }
+    },
+    "courses/drit/radiology-monitors.webp": {
+        "w": 800,
+        "h": 450,
+        "srcset": []
+    },
+    "courses/drit/why-choose-manila-institute.webp": {
+        "w": 804,
+        "h": 687,
+        "srcset": {
+            "480": "courses/drit/why-choose-manila-institute-480w.webp"
+        }
+    },
+    "admission/student-course-joining.webp": {
+        "w": 800,
+        "h": 1072,
+        "srcset": {
+            "480": "admission/student-course-joining-480w.webp"
+        }
+    },
+    "admission/application-for-admission-form-preview.webp": {
+        "w": 900,
+        "h": 1165,
+        "srcset": {
+            "480": "admission/application-for-admission-form-preview-480w.webp"
+        }
+    },
+    "contact/contact-hero.webp": {
+        "w": 1600,
+        "h": 785,
+        "srcset": {
+            "800": "contact/contact-hero-800w.webp"
+        }
+    }
+}

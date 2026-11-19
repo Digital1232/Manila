@@ -1,0 +1,375 @@
+{
+    "formidable_forms": [
+        {
+            "id": "1",
+            "form_key": "contact-form",
+            "name": "Contact Us",
+            "status": "published",
+            "parent_form_id": "0"
+        },
+        {
+            "id": "2",
+            "form_key": "contact-form2",
+            "name": "Manila Contact Us",
+            "status": "published",
+            "parent_form_id": "0"
+        },
+        {
+            "id": "3",
+            "form_key": "contact-form22",
+            "name": "Manila Contact Us",
+            "status": "published",
+            "parent_form_id": "0"
+        },
+        {
+            "id": "4",
+            "form_key": "contact-form3",
+            "name": "Manila Contact Us",
+            "status": "published",
+            "parent_form_id": "0"
+        }
+    ],
+    "formidable_fields": [
+        {
+            "id": "1",
+            "form_id": "1",
+            "name": "Name",
+            "type": "text",
+            "required": "1",
+            "field_order": "1",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "2",
+            "form_id": "1",
+            "name": "Last",
+            "type": "text",
+            "required": "1",
+            "field_order": "2",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "3",
+            "form_id": "1",
+            "name": "Email",
+            "type": "email",
+            "required": "1",
+            "field_order": "3",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "4",
+            "form_id": "1",
+            "name": "Subject",
+            "type": "text",
+            "required": "1",
+            "field_order": "5",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "5",
+            "form_id": "1",
+            "name": "Message",
+            "type": "textarea",
+            "required": "1",
+            "field_order": "6",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "6",
+            "form_id": "1",
+            "name": "Submit",
+            "type": "submit",
+            "required": "0",
+            "field_order": "7",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "7",
+            "form_id": "2",
+            "name": "Name",
+            "type": "text",
+            "required": "1",
+            "field_order": "1",
+            "options": "",
+            "default_value": "",
+            "description": "First"
+        },
+        {
+            "id": "8",
+            "form_id": "2",
+            "name": "Last",
+            "type": "text",
+            "required": "1",
+            "field_order": "2",
+            "options": "",
+            "default_value": "",
+            "description": "Last"
+        },
+        {
+            "id": "9",
+            "form_id": "2",
+            "name": "Email",
+            "type": "email",
+            "required": "1",
+            "field_order": "3",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "10",
+            "form_id": "2",
+            "name": "Subject",
+            "type": "text",
+            "required": "1",
+            "field_order": "5",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "11",
+            "form_id": "2",
+            "name": "Message",
+            "type": "textarea",
+            "required": "1",
+            "field_order": "6",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "12",
+            "form_id": "2",
+            "name": "Submit",
+            "type": "submit",
+            "required": "0",
+            "field_order": "7",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "13",
+            "form_id": "3",
+            "name": "Name",
+            "type": "text",
+            "required": "1",
+            "field_order": "2",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "29",
+            "form_id": "3",
+            "name": "Phone",
+            "type": "phone",
+            "required": "0",
+            "field_order": "4",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "15",
+            "form_id": "3",
+            "name": "Email",
+            "type": "email",
+            "required": "1",
+            "field_order": "6",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "25",
+            "form_id": "3",
+            "name": "Select a Course",
+            "type": "select",
+            "required": "1",
+            "field_order": "8",
+            "options": "a:4:{i:0;a:2:{s:5:\"label\";s:28:\"Diploma in Nursing Midwifery\";s:5:\"value\";s:28:\"Diploma in Nursing Midwifery\";}i:1;a:2:{s:5:\"label\";s:40:\"Diploma in Medical Laboratory Technology\";s:5:\"value\";s:40:\"Diploma in Medical Laboratory Technology\";}i:2;a:2:{s:5:\"label\";s:39:\"Diploma in Operation Theatre Technology\";s:5:\"value\";s:39:\"Diploma in Operation Theatre Technology\";}i:3;a:2:{s:5:\"label\";s:41:\"Diploma in Radiology & Imaging Technology\";s:5:\"value\";s:41:\"Diploma in Radiology & Imaging Technology\";}}",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "18",
+            "form_id": "3",
+            "name": "Submit",
+            "type": "submit",
+            "required": "0",
+            "field_order": "15",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "19",
+            "form_id": "4",
+            "name": "Name",
+            "type": "text",
+            "required": "1",
+            "field_order": "1",
+            "options": "",
+            "default_value": "",
+            "description": "First"
+        },
+        {
+            "id": "20",
+            "form_id": "4",
+            "name": "Last",
+            "type": "text",
+            "required": "1",
+            "field_order": "2",
+            "options": "",
+            "default_value": "",
+            "description": "Last"
+        },
+        {
+            "id": "21",
+            "form_id": "4",
+            "name": "Email",
+            "type": "email",
+            "required": "1",
+            "field_order": "3",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "22",
+            "form_id": "4",
+            "name": "Subject",
+            "type": "text",
+            "required": "1",
+            "field_order": "5",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "23",
+            "form_id": "4",
+            "name": "Message",
+            "type": "textarea",
+            "required": "1",
+            "field_order": "6",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        },
+        {
+            "id": "24",
+            "form_id": "4",
+            "name": "Submit",
+            "type": "submit",
+            "required": "0",
+            "field_order": "7",
+            "options": "",
+            "default_value": "",
+            "description": ""
+        }
+    ],
+    "formidable_actions": [
+        {
+            "ID": "987808",
+            "post_title": "Email Notification",
+            "action_type": "email",
+            "form_id": "1",
+            "post_status": "publish",
+            "post_content": "{\"email_to\":\"[admin_email]\",\"cc\":\"\",\"bcc\":\"\",\"reply_to\":\"[3]\",\"from\":\"[sitename] <[admin_email]>\",\"email_subject\":\"\",\"email_message\":\"[default-message]\",\"event\":[\"create\"],\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"}}"
+        },
+        {
+            "ID": "987882",
+            "post_title": "Email Notification",
+            "action_type": "email",
+            "form_id": "2",
+            "post_status": "publish",
+            "post_content": "{\"email_to\":\"[admin_email]\",\"cc\":\"\",\"bcc\":\"\",\"reply_to\":\"[9]\",\"from\":\"[sitename] <[admin_email]>\",\"email_subject\":\"\",\"email_message\":\"[default-message]\",\"event\":[\"create\"],\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"inc_user_info\":\"0\",\"plain_text\":\"0\"}"
+        },
+        {
+            "ID": "987884",
+            "post_title": "Email Notification",
+            "action_type": "email",
+            "form_id": "3",
+            "post_status": "publish",
+            "post_content": "{\"email_to\":\"[admin_email]\",\"cc\":\"\",\"bcc\":\"\",\"reply_to\":\"[15]\",\"from\":\"[sitename] <[admin_email]>\",\"email_subject\":\"\",\"email_message\":\"[default-message]\",\"event\":[\"create\"],\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"inc_user_info\":\"0\",\"plain_text\":\"0\"}"
+        },
+        {
+            "ID": "987886",
+            "post_title": "Email Notification",
+            "action_type": "email",
+            "form_id": "4",
+            "post_status": "publish",
+            "post_content": "{\"email_to\":\"[admin_email]\",\"cc\":\"\",\"bcc\":\"\",\"reply_to\":\"[21]\",\"from\":\"[sitename] <[admin_email]>\",\"email_subject\":\"\",\"email_message\":\"[default-message]\",\"event\":[\"create\"],\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"inc_user_info\":\"0\",\"plain_text\":\"0\"}"
+        },
+        {
+            "ID": "987815",
+            "post_title": "Confirmation",
+            "action_type": "on_submit",
+            "form_id": "1",
+            "post_status": "publish",
+            "post_content": "{\"event\":[\"create\"],\"success_action\":\"message\",\"success_msg\":\"Your responses were successfully submitted. Thank you!\",\"show_form\":\"\"}"
+        },
+        {
+            "ID": "987881",
+            "post_title": "Confirmation",
+            "action_type": "on_submit",
+            "form_id": "2",
+            "post_status": "publish",
+            "post_content": "{\"event\":[\"create\"],\"success_action\":\"message\",\"success_msg\":\"Your responses were successfully submitted. Thank you!\",\"show_form\":\"\",\"success_url\":\"\",\"success_page_id\":\"\",\"open_in_new_tab\":\"\",\"redirect_delay\":\"\",\"redirect_delay_time\":\"8\",\"redirect_delay_msg\":\"Please wait while you are redirected.\",\"conditions\":{\"send_stop\":\"\",\"any_all\":\"\"}}"
+        },
+        {
+            "ID": "987883",
+            "post_title": "Confirmation",
+            "action_type": "on_submit",
+            "form_id": "3",
+            "post_status": "publish",
+            "post_content": "{\"event\":[\"create\"],\"success_action\":\"message\",\"success_msg\":\"Your responses were successfully submitted. Thank you!\",\"show_form\":\"\",\"success_url\":\"\",\"success_page_id\":\"\",\"open_in_new_tab\":\"\",\"redirect_delay\":\"\",\"redirect_delay_time\":14,\"redirect_delay_msg\":\"Please wait while you are redirected.\",\"conditions\":{\"send_stop\":\"\",\"any_all\":\"\"}}"
+        },
+        {
+            "ID": "987885",
+            "post_title": "Confirmation",
+            "action_type": "on_submit",
+            "form_id": "4",
+            "post_status": "publish",
+            "post_content": "{\"event\":[\"create\"],\"success_action\":\"message\",\"success_msg\":\"Your responses were successfully submitted. Thank you!\",\"show_form\":\"\",\"success_url\":\"\",\"success_page_id\":\"\",\"open_in_new_tab\":\"\",\"redirect_delay\":\"\",\"redirect_delay_time\":\"8\",\"redirect_delay_msg\":\"Please wait while you are redirected.\",\"conditions\":{\"send_stop\":\"\",\"any_all\":\"\"}}"
+        }
+    ],
+    "cf7": [
+        {
+            "form": {
+                "ID": "987940",
+                "post_title": "Contact form 1"
+            },
+            "meta": [
+                {
+                    "meta_key": "_form",
+                    "meta_value": "<label> Your name\n    [text* your-name autocomplete:name] </label>\n\n<label> Your email\n    [email* your-email autocomplete:email] </label>\n\n<label> Subject\n    [text* your-subject] </label>\n\n<label> Your message (optional)\n    [textarea your-message] </label>\n\n[submit \"Submit\"]"
+                },
+                {
+                    "meta_key": "_mail",
+                    "meta_value": "a:8:{s:7:\"subject\";s:30:\"[_site_title] \"[your-subject]\"\";s:6:\"sender\";s:41:\"[_site_title] <admin@manilainstitute.com>\";s:4:\"body\";s:191:\"From: [your-name] [your-email]\nSubject: [your-subject]\n\nMessage Body:\n[your-message]\n\n-- \nThis is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).\";s:9:\"recipient\";s:19:\"[_site_admin_email]\";s:18:\"additional_headers\";s:22:\"Reply-To: [your-email]\";s:11:\"attachments\";s:0:\"\";s:8:\"use_html\";i:0;s:13:\"exclude_blank\";i:0;}"
+                },
+                {
+                    "meta_key": "_mail_2",
+                    "meta_value": "a:9:{s:6:\"active\";b:0;s:7:\"subject\";s:30:\"[_site_title] \"[your-subject]\"\";s:6:\"sender\";s:41:\"[_site_title] <admin@manilainstitute.com>\";s:4:\"body\";s:220:\"Message Body:\n[your-message]\n\n-- \nThis email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.\";s:9:\"recipient\";s:12:\"[your-email]\";s:18:\"additional_headers\";s:29:\"Reply-To: [_site_admin_email]\";s:11:\"attachments\";s:0:\"\";s:8:\"use_html\";i:0;s:13:\"exclude_blank\";i:0;}"
+                }
+            ]
+        }
+    ]
+}

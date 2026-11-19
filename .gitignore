@@ -1,0 +1,14 @@
+# Server-specific settings, credentials and enquiry records
+/private/config.php
+/private/storage/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated local review evidence and runtime files
+/dev/responsive-review/
+*.log
+Thumbs.db
+.DS_Store

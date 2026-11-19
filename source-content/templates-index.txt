@@ -1,0 +1,52 @@
+16996 | archive | publish | Blog Archive - Simple | conditions: -
+22217 | archive | publish | Blog Archive | conditions: ["include\/archive"]
+14358 | error-404 | publish | Error 404 | conditions: ["include\/singular\/not_found404"]
+206 | footer | publish | Footer | conditions: ["include\/singular\/page\/11"]
+7459 | footer | publish | Footer Black | conditions: ["include\/general"]
+9088 | header | publish | Header - light | conditions: ["include\/general","exclude\/singular\/page\/70"]
+17245 | header | publish | Header Dark | conditions: ["include\/archive","include\/singular\/post","include\/singular\/page\/6293","include\/singular\/not_found404","include\/singular\/page\/30","include\/singular\/page\/6295","include\/singular\/page\/13403","include\/singular\/page\/11102","include\/singular\/page\/17061","include\/singular\/page\/20607"]
+22087 | header | publish | Header Transparent | conditions: ["include\/singular\/page\/70"]
+7 | kit | publish | Default Kit | conditions: -
+9 | kit | publish | Default Kit | conditions: -
+22373 | kit | publish | Default Kit | conditions: -
+6466 | page | publish | Home 2 Hero/ Start Your Career | conditions: -
+6536 | page | publish | Home 2 Hero/ Student Life | conditions: -
+6548 | page | publish | Home 2 Hero/ Our Alumni | conditions: -
+7647 | page | publish | Home Program Slider/ item 1 | conditions: -
+13329 | page | publish | Home 2 Program Slider/ item 2 | conditions: -
+13339 | page | publish | Home Program Slider/ item 3 | conditions: -
+14751 | page | publish | Home 2 Program Slider/ item 4 | conditions: -
+14921 | page | publish | Leadership - person1 | conditions: -
+14988 | page | publish | Leadership - person2 | conditions: -
+14992 | page | publish | Leadership-person3 | conditions: -
+15000 | page | publish | Leadership-person4 | conditions: -
+15004 | page | publish | Leadership-person5 | conditions: -
+15008 | page | publish | Leadership-person6 | conditions: -
+16006 | page | publish | Single Degree Course Information - Title one line of text | conditions: -
+16009 | page | publish | Single Degree Course Information - Title two lines of text | conditions: -
+18016 | page | publish | Home 2 Program Slider/ item 5 | conditions: -
+21542 | page | publish | Landing page &#8211; Template export | conditions: -
+998 | popup | publish | Menu Popup/ Hamburger | conditions: ["include\/general"]
+7592 | popup | publish | Menu Popup/ Search | conditions: -
+8941 | popup | publish | Menu Mobile | conditions: -
+987880 | popup | publish | Contact Us | conditions: ["include\/general"]
+987906 | popup | draft | Popup | conditions: -
+14398 | search-results | publish | Search Results | conditions: ["include\/archive\/search"]
+12815 | section | publish | History Slider - Slide 1 | conditions: -
+12843 | section | publish | History Slider – Slide 2 | conditions: -
+12847 | section | publish | History Slider – Slide 3 | conditions: -
+12857 | section | publish | History Slider – Slide 4 | conditions: -
+13149 | section | publish | Faculty - Personal Details - Item 1 | conditions: -
+19901 | section | publish | Faculty – Personal Details – Item 2 | conditions: -
+19914 | section | publish | Faculty – Personal Details – Item 3 | conditions: -
+19925 | section | publish | Faculty – Personal Details – Item 4 | conditions: -
+19932 | section | publish | Faculty – Personal Details – Item 5 | conditions: -
+19938 | section | publish | Faculty – Personal Details – Item 6 | conditions: -
+19944 | section | publish | Faculty – Personal Details – Item 7 | conditions: -
+19952 | section | publish | Faculty – Personal Details – Item 8 | conditions: -
+19958 | section | publish | Faculty – Personal Details – Item 9 | conditions: -
+20462 | section | publish | History Slider – Slide 5 | conditions: -
+20613 | section | publish | Single Degree Course Information | conditions: -
+23813 | section | publish | updated-plugins | conditions: -
+15385 | single | publish | Single Post Template - Simple | conditions: -
+22190 | single | publish | Single Post Template | conditions: ["include\/singular\/post"]
