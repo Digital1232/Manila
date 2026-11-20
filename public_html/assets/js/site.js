@@ -2,6 +2,56 @@
 (function () {
   'use strict';
 
+  /* ---- Reveal content as it enters the viewport; keep native scrolling. ---- */
+  var motionPreference = window.matchMedia('(prefers-reduced-motion: reduce)');
+  if ('IntersectionObserver' in window && Element.prototype.animate && !motionPreference.matches) {
+    var motionTargets = Array.prototype.slice.call(document.querySelectorAll(
+      'main .hero-copy > *, main .page-hero h1, main .page-hero .lead, main .section-head, ' +
+      'main .course-card, main .highlight-grid > li, main .legacy-media, main .legacy-copy, ' +
+      'main .info-card, main .info-card-media, main .feature-media, main .feature-copy, ' +
+      'main .timeline-item, main .why-media, main .why-copy > h2, main .why-list > li, ' +
+      'main .doctor-card, main .apply-copy, main .form-card, main .program-row'
+    ));
+    var motionObserver = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (!entry.isIntersecting) return;
+        var element = entry.target;
+        element.classList.remove('motion-pending');
+        if (!motionPreference.matches) {
+          element.animate([
+            { opacity: 0, translate: '0 18px' },
+            { opacity: 1, translate: '0 0' }
+          ], { duration: 900, delay: Number(element.dataset.motionDelay || 0), easing: 'cubic-bezier(.16,1,.3,1)', fill: 'backwards' });
+        }
+        motionObserver.unobserve(element);
+      });
+    }, { threshold: 0, rootMargin: '0px 0px 72px 0px' });
+    motionTargets.forEach(function (element) {
+      // Only stagger short card rows; timeline entries should never wait to appear.
+      var index = Array.prototype.indexOf.call(element.parentNode.children, element);
+      var stagger = element.matches('.course-card, .doctor-card, .highlight-grid > li, .hero-copy > *');
+      element.dataset.motionDelay = stagger ? Math.min(index, 3) * 55 : 0;
+      if (element.getBoundingClientRect().bottom <= 0) return;
+      element.classList.add('motion-pending');
+      motionObserver.observe(element);
+    });
+    document.addEventListener('focusin', function (event) {
+      var pending = event.target.closest('.motion-pending');
+      if (pending) {
+        pending.classList.remove('motion-pending');
+        motionObserver.unobserve(pending);
+      }
+    });
+    if (motionPreference.addEventListener) motionPreference.addEventListener('change', function (event) {
+      if (!event.matches) return;
+      motionObserver.disconnect();
+      motionTargets.forEach(function (element) {
+        element.classList.remove('motion-pending');
+        element.getAnimations().forEach(function (animation) { animation.cancel(); });
+      });
+    });
+  }
+
   /* ---- Mobile navigation ---- */
   var toggle = document.querySelector('[data-nav-toggle]');
   var nav = document.querySelector('[data-nav]');

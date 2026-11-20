@@ -9,6 +9,14 @@
 
 # Generated local review evidence and runtime files
 /dev/responsive-review/
+/dev/deployment-review/
+/dev/*-preview.jpg
+/dev/live-admission-*.jpg
+
+# Local deployment bundles can contain production configuration.
+/deploy/*.zip
+/deploy/hostinger-patch-*/
+/deploy/update-*/
 *.log
 Thumbs.db
 .DS_Store

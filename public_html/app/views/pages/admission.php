@@ -73,8 +73,13 @@ partial('apply-steps', ['link' => false, 'id' => 'steps']);
         <li><a href="<?= e(tel_href($site['phones'][0])) ?>"><span class="qc-icon"><?= icon('phone') ?></span><span><small>Call admissions</small><?= e($site['phones'][0]) ?></span></a></li>
         <li><a href="<?= e(whatsapp_href($waText)) ?>" rel="noopener" target="_blank"><span class="qc-icon qc-whatsapp"><?= icon('whatsapp') ?></span><span><small>Chat with us</small>WhatsApp</span></a></li>
       </ul>
-      <figure class="apply-photo">
-        <?= img('admission/student-course-joining.webp', 'Student holding her admission folder at Manila Institute', ['sizes' => '(min-width: 1024px) 420px, 100vw']) ?>
+      <figure class="admission-feature admission-feature-photo">
+        <?= img('admission/student-course-joining.webp', 'Student holding her admission folder at Manila Institute', ['class' => 'admission-feature-image', 'sizes' => '160px']) ?>
+        <figcaption>
+          <span class="admission-feature-label">Here to guide you</span>
+          <h3>Start your admission journey</h3>
+          <p>Need help choosing a course? Our team can guide you through the next steps.</p>
+        </figcaption>
       </figure>
     </div>
     <div class="form-card">

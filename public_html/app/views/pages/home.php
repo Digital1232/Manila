@@ -171,7 +171,14 @@ $focusAreas = ['Clinical Cardiology', 'Diabetes Management', 'Hypertension', 'Th
         <li><a href="<?= e(tel_href($site['phones'][0])) ?>"><span class="qc-icon"><?= icon('phone') ?></span><span><small>Call admissions</small><?= e($site['phones'][0]) ?></span></a></li>
         <li><a href="<?= e(whatsapp_href('Hello, I would like to know more about admission at Manila Institute.')) ?>" rel="noopener" target="_blank"><span class="qc-icon qc-whatsapp"><?= icon('whatsapp') ?></span><span><small>Chat with us</small>WhatsApp</span></a></li>
       </ul>
-      <?= img('home/apply-now-student.webp', '', ['class' => 'apply-student']) ?>
+      <figure class="admission-feature">
+        <?= img('home/apply-now-student.webp', '', ['class' => 'admission-feature-image', 'sizes' => '160px']) ?>
+        <figcaption>
+          <span class="admission-feature-label">Your next step</span>
+          <h3>Build your future in healthcare</h3>
+          <p>Explore our diploma courses and speak with our admissions team.</p>
+        </figcaption>
+      </figure>
     </div>
     <div class="form-card">
       <h3 class="form-title">Admission enquiry</h3>
